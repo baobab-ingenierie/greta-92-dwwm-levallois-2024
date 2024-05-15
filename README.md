@@ -8,8 +8,8 @@ Projet "fil rouge" réalisé du **16 octobre 2023 au 24 juin 2024** avec l'équi
 ## Points abordés
 - [ ] CP1 Installer et configurer son environnement de travail en fonction du projet web ou web mobile
 - [ ] CP2 Maquetter des interfaces utilisateur web ou web mobile
-- [ ] CP3 Réaliser des interfaces utilisateur statiques web ou web mobile
-- [ ] CP4 Développer la partie dynamique des interfaces utilisateur web ou web mobile
+- [x] CP3 Réaliser des interfaces utilisateur statiques web ou web mobile
+- [x] CP4 Développer la partie dynamique des interfaces utilisateur web ou web mobile
 - [ ] CP5 Mettre en place une base de données relationnelle
 - [ ] CP6 Développer des composants d’accès aux données SQL et NoSQL
 - [x] CP7 Développer des composants métier coté serveur
