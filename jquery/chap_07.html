@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Cours jQuery</title>
+	<style type="text/css">
+		body {
+			margin: 0px;
+			padding: 10px;
+			font: 80% Verdana, Arial, sans-serif;
+		}
+
+		h1 {
+			clear: both;
+			font-size: 160%;
+			font-weight: normal;
+			margin: 0px;
+			padding-top: 10px;
+			padding-bottom: 15px;
+		}
+
+		#galerie {
+			width: 100%;
+			overflow: hidden;
+		}
+
+		#galerie a {
+			position: relative;
+			float: left;
+			margin: 5px;
+		}
+
+		#galerie a span {
+			background-image: url(pics/loupe.png);
+			background-repeat: no-repeat;
+			width: 30px;
+			height: 30px;
+			display: none;
+			position: absolute;
+			left: 15px;
+			top: 15px;
+		}
+
+		#galerie img {
+			border: solid 1px black;
+			padding: 5px;
+		}
+	</style>
+</head>
+
+<body>
+	<h1>Les Pyramides d'Egypte</h1>
+	<div id="galerie">
+		<a href="pics/pyramides1.jpg"><img src="pics/pyramides1_pt.jpg" alt="" /> </a> <a
+			href="pics/pyramides2.jpg"><img src="pics/pyramides2_pt.jpg" alt="" /> </a> <a
+			href="pics/pyramides3.jpg"><img src="pics/pyramides3_pt.jpg" alt="" /> </a>
+	</div>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="js/chap_07.js"></script>
+</body>
+
+</html>
