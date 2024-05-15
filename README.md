@@ -20,4 +20,6 @@ Projet "fil rouge" réalisé du **16 octobre 2023 au 24 juin 2024** avec l'équi
 + HTML5
 + CSS3
 + JavaScript
++ jQuery
 + Bootstrap
++ PHP
